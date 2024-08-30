@@ -17,7 +17,7 @@ Using only Python, I created a sign-in page by designing a user interface that c
 **Password - 1234**
 
 ## Sing Up Page
-![image]("C:\Users\DELL\Desktop\Ducat\Phy\Login page project\login\2 login project\Screenshot 2024-08-30 182308.png")
+![image](https://github.com/user-attachments/assets/d22c4391-7b61-4e10-a313-8e9541daaccc)
 
 ## Get Involved
 We welcome your contributions! Whether you have ideas, suggestions, or enhancements, don't hesitate to submit a pull request or open an issue. Your input helps us improve and grow together.
