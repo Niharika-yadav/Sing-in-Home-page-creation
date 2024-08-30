@@ -17,7 +17,10 @@ Using only Python, I created a sign-in page by designing a user interface that c
 **Password - 1234**
 
 ## Sing Up Page
-![image](https://github.com/user-attachments/assets/d22c4391-7b61-4e10-a313-8e9541daaccc)
+![image](https://github.com/user-attachments/assets/f42d66a9-f54a-4638-9e08-42c7c9cae801)
+
+## After login Confirmation Page
+![image](https://github.com/user-attachments/assets/be3049b3-d75b-4061-8a3e-e4204be348e6)
 
 ## Get Involved
 We welcome your contributions! Whether you have ideas, suggestions, or enhancements, don't hesitate to submit a pull request or open an issue. Your input helps us improve and grow together.
